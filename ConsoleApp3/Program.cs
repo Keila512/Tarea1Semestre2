@@ -23,7 +23,6 @@ namespace ConsoleApp3
             Console.WriteLine(x);
             sumarP(a.Numero1, a.Numero5);
             Console.WriteLine(x);
-            //Console.WriteLine(suma);
             Console.ReadKey();
         }
 
